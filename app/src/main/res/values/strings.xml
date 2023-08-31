@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TugasBasicAndroid</string>
+    <string name="about">About</string>
+    <string name="original_content">Artikel asli</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="judul_artikel">Judul Artikel</string>
+    <string name="tampilan">Tampilan</string>
+    <string name="my_name">Galang Wahyu Pratama</string>
+    <string name="my_email">a121bsy2862@bangkit.academy</string>
+
+    <string-array name="data_title">
+        <item>Mangga</item>
+        <item>Semangka</item>
+        <item>Jambu Biji</item>
+        <item>Melon Jingga</item>
+        <item>Alpukat</item>
+        <item>Blewah</item>
+        <item>Pepaya</item>
+        <item>Nanas</item>
+        <item>Anggur</item>
+        <item>Jeruk Bali</item>
+        <item>Apel</item>
+        <item>Kiwi</item>
+        <item>Nangka</item>
+    </string-array>
+
+    <string-array name="data_thumbnail">
+        <item>@drawable/mangga</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/jambu_biji</item>
+        <item>@drawable/melon_jinga</item>
+        <item>@drawable/alpukat</item>
+        <item>@drawable/blewah</item>
+        <item>@drawable/pepaya</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/anggur</item>
+        <item>@drawable/jeruk_bali</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/nangka</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Jumlah vitamin A dalam satu buah mangga utuh: 112 mcg. Buah vitamin A yang pertama adalah mangga, yang mengandung setara dengan 45% jumlah kebutuhan harian vitamin. Berbagai kandungan lainnya seperti antioksidan dan serat makanan juga berperan untuk meningkatkan fungsi usus dan mengendalikan gula darah.</item>
+        <item> Jumlah vitamin A dalam 100 gram: 569 IU. Tak hanya segar, buah semangka termasuk salah satu buah yang mengandung vitamin A dan berbagai nutrisi baik lainnya untuk tubuh. Mulai dari kalium, magnesium, serta aneka vitamin seperti vitamin B dan vitamin C. Dengan rutin mengonsumsi buah ini dapat mencegah peradangan, menyehatkan kulit dan rambut hingga menyehatkan jantung. Selain itu, juga menurunkan tekanan darah dan kolesterol. </item>
+        <item> Jumlah vitamin A dalam 100 gram: 624 IU. Mungkin sebagian orang tidak tahu bahwa jambu biji termasuk buah vitamin A. Dengan mengonsumsi 100 gram setiap harinya, akan membantu memenuhi kebutuhan asupan vitamin A. Beberapa manfaat yang bisa kamu rasakan diantaranya menurunkan gula darah, menyehatkan pencernaan, hingga menjaga kesehatan jantung. </item>
+        <item> Jumlah vitamin A dalam 1/2 gelas cangkir: 135 mcg. Buah melon jingga memiliki kandungan vitamin A yang setara dengan 54% jumlah kebutuhan harian. Melon jingga menjadi salah satu buah yang mengandung sumber antioksidan dan vitamin C yang berfungsi untuk meningkatkan sistem kekebalan tubuh. Selain itu, melon jingga berperan melindungi tubuh dari berbagai bakteri dan virus penyebab penyakit. </item>
+        <item> Jumlah vitamin A dalam 100 g: 1.926 IU. Tidak hanya mengandung vitamin A, alpukat juga salah satu buah yang kaya akan magnesium. Perlu diketahui, satu buah alpukat mengandung 58 miligram magnesium. Dengan nilai tersebut, sudah mampu memenuhi kebutuhan magnesium harian pada tubuh hingga 16%. Buah berdaging kuning kehijauan ini juga diperkaya dengan kalium, serat dan vitamin C. Kemampuan buah ini dapat menjaga gula dara sehingga aman dikonsumsi penderita diabetes. </item>
+        <item> Jumlah vitamin A dalam 100 g: 1,69 g. Umumnya, buah blewah lebih sering ditemukan saat bulan Ramadhan sebagai campuran dalam sop buah. Rasanya yang menyegarkan dan manis membuatnya cocok dikonsumsi sebagai pelepas dahaga. Buah berwarna oranye merupakan buah yang mengandung vitamin A untuk kesehatan mata. Adanya beta karoten di dalamnya berperan sebagai antioksidan untuk menangkal radikal bebas, sehingga terhindar dari penyakit kronis. </item>
+        <item> Selain kaya akan kandungan vitamin A, buah berwarna oranye ini juga mengandung serat, karbohidrat, protein, vitamin C, vitamin B, kalium, magnesium, dan juga kalsium. Tak heran, bila pepaya bermanfaat untuk menjaga kesehatan pencernaan, kulit, dan jantung serta mencegah risiko pertumbuhan sel-sel kanker. Meski kaya akan nutrisi yang menguntungkan, sayangnya tak semua orang menyukai buah satu ini karena aroma yang dimiliki terlalu menyengat dan tekstur yang terlalu lembek. </item>
+        <item> Jumlah vitamin A dalam 100 g: 58 IU. Mungkin sebagian orang beranggapan buah nanas hanya mengandung vitamin C, namun ternyata buah kuning dengan rasa asam yang khas ini juga mengandung vitamin A. Di dalam buah ini, terdapat kandungan bromelain yang berpotensi untuk mengurangi durasi sinusitis serta memperlancar dan mengurangi masalah peradangan pada saluran pernapasan. Perlu diingat, buah nanas tidak boleh dikonsumsi secara berlebihan dan hanya boleh sebanyak 12 gram saja setiap harinya. </item>
+        <item>  Jumlah vitamin A dalam 100 g: 66 IU. Buah yang memiliki rasa manis dan sedikit asam ini memiliki kandungan vitamin A, vitamin B komplek, vitamin C, dan vitamin K. Selain itu, juga mengandung asam galat, glukosida, mangan, zat besi, dan kalsium. Mengonsumsi buah anggur dapat mengurangi risiko kanker payudara, gangguan prostat, dan usus besar. Dapat dikatakan buah ini berperan dalam menyehatkan ginjal dan pencernaan.</item>
+        <item> Jeruk bali adalah buah yang mengandung vitamin A paling tinggi dibandingkan jenis jeruk lainnya. Sehingga, tak heran bila buah satu ini tergolong ke dalam superfood. Dengan mengonsumsi jeruk bali secara rutin akan memberikan berbagai manfaat bagi kesehatan, mulai dari mengontrol gula darah, menurunkan tekanan darah, hingga mencegah kanker.</item>
+        <item> Jumlah vitamin A dalam 100 g: 58 IU. Apel adalah salah buah yang cukup populer dengan memiliki tekstur renyah dan rasa yang manis. Berdasarkan sebuah penelitian, buah ini mengandung serat cukup tinggi. Tak hanya itu, apel juga memiliki kandungan vitamin A, vitamin C, kalium, vitamin K, dan vitamin B. Kandungan antioksidan yang melimpah di dalamnya berguna untuk meningkatkan kesehatan jantung dan mengurangi risiko diabetes tipe 2, kanker, hingga Alzheimer. </item>
+        <item> Jumlah vitamin A dalam 100 g: 87 IU. Buah berwarna hijau ini memiliki kandungan vitamin A yang terbilang cukup untuk memenuhi kebutuhan vitamin A harian. Di samping itu, buah yang memiliki rasa asam ini mengandung sejumlah zat bergizi lainnya seperti vitamin C, vitamin E, vitamin K, mineral, dan fito chemical. Mengonsumsi kiwi secara rutin juga akan menyehatkan mata kamu. </item>
+        <item> Jumlah vitamin A dalam 100 g: 110 IU. Selain mudah dijumpai di Indonesia, buah tropis ini mengandung vitamin dengan jumlah cukup tinggi. Dengan mengonsumsi buah nangka secara rutin akan menjaga dan merawat kesehatan mata dan kulit. Buah berduri ini memiliki kandungan zat bergizi lainnya, yang diantaranya adalah kalsium, potasium, dan juga fosfor. </item>
+    </string-array>
+</resources>
